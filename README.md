@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SaidLopez
 - 👀 I’m interested in Data and Data Science
-- 🌱 I’m currently learning about Algorithms and web development so I can deploy my apps online
-- 💞️ I’m looking to collaborate on Data projects or App deployment to the web
+- 🌱 I’m currently learning about Sagemaker and Azure
+- 📈 Building something special with supermarket data (Soon to be launched)
 - 📫 You can reach me through my GitHub profile
 
 <!---
